@@ -97,7 +97,7 @@ export const Login: React.FC = () => {
         </div>
       </div>
       
-      <p className="mt-6 text-xs text-slate-400 dark:text-slate-500 z-10 animate-fade-in delay-200">© 2026 Grupo Motoeste. Todos os direitos reservados.</p>
+      <p className="mt-6 text-xs text-slate-400 dark:text-slate-500 z-10 animate-fade-in delay-200">© 2026 Grupo Motoeste | Todos os direitos reservados.</p>
     </div>
   );
 };
